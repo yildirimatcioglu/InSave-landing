@@ -6,68 +6,162 @@ include_in_header: true
 
 **Privacy Policy for InSave**
 
-Yildirimhan Atcioglu built the InSave app as a Free app. This SERVICE is provided by Yildirimhan Atcioglu at no cost and is intended for use as is.
+Last updated: 9 March 2023
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This Privacy Policy explains how your personal data is collected and processed by us when you use the our mobile applications (the "App").
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+The App is a free to play game (with optional in-game-purchases), and in order to maintain the high quality and a great game experience we process information from and about you in particular to improve the entire experience in the App and to support internal operations.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at InSave
-unless otherwise defined in this Privacy Policy.
+We update this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, depending on the specific changes, we will provide you with additional notice or require a renewed consent.
 
-**Information Collection and Use**
+COLLECTİON OF INFORMATİON
+Information we collect automatically through the app
+When you access or use the App, we automatically collect general information about you, including:
+Log Information: We log information about your use of the App, including the type of device you use, the features you use, access times and your IP address.
+Device Information: We collect information about the device you use to access the App, including information about the device manufacture, device model, device's OS, time zone of device, language of device.
+Device identifiers: We collect online identifiers of the device you use to access the App, including IDFA, Google Ads ID, Google Device ID, Game Center ID, Google Play Account ID.
+Usage Information: We collect information relating to your use of the App, including your game progress, scores, achievements and interactions with other players.
+Consumption information: We collect information about your consumption habits relating to your use of the App, including which purchases you make with both virtual and real currencies and the reception of virtual goods in-game.
+Information we collect from other sources
+If you log into the App using a third party site or platform such as Facebook, Apple Game Center and Google Sign-In, we access information about you from that site or platform, such as your screen name, profile information and friend lists, in accordance with the authorization procedures determined by such third party site or platform provided that you have given the third party site in question such consent.
+You can learn more about how such third-party sites or platforms process your personal data in the relevant privacy policy:
+Facebook: https://www.facebook.com/about/privacy/
+If you log into the App using a third party site or platform, you represent and warrant that (i) your access and use of such features in connection with the App will comply with the applicable terms and policies of such site or platform; and (ii) that you are over the minimum age limit that is prescribed for such third party site or platform by the legislation in the individual jurisdictions.
+USE OF İNFORMATİON – PURPOSE AND LEGAL BASİS
+We use information about you for the following purposes in accordance with the legal bases for each type of personal data as described below:
+Log-, device-, usage-, and consumption information and device identifiers are being processed:
+to provide and deliver the products and services you request and send you related information as requested by you / as agreed with you;
+to provide and maintain the App and the game experience; and
+to send you technical notices, updates, security alerts, and support and administrative messages; 
+Our processing for the above purposes is necessary for the performance of a contract to which you are party in order to support the operation of the App, facilitate the delivery of requested products and services and enable maintenance and update of the App, see Article 6(1)(b) of the GDPR.
+to provide news and information about the App that we think will be of interest to you;
+to personalize and improve the App and provide tailored content and features;
+to monitor and analyze trends, usage and activities in connection with the App; 
+Our processing for the above purposes is justified by our legitimate interests in providing advertisements and content of interest to you and improving our services in accordance with Article 6(1)(f) of the GDPR (also known as "the balancing-of-interest rule").
+to provide users that have given us consent to share their advertising IDs with our ad network partners (as further specified under “Sharing of Information”) for the purpose of serving them with personalized advertisement in the App (behavioral advertising). 
+Our processing for the above purpose is justified by our legitimate interests in providing advertisements and content of interest to you in accordance with Article 6(1)(f) of the GDPR. The disclosure of your advertising ID to third parties for the purposes of behavioral advertising is based on your consent in accordance with Article 6(1)(a) of the GDPR (see more below under Sharing of Information).
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+Information from other sources are being processed:
+to provide and deliver the products and services you request and send you related information; 
+Our processing for the above purpose is necessary for the performance of a contract to which you are party in order to facilitate the delivery of requested products and services, see Section 6(1)(b) of the GDPR.
+to link or combine information we get from others to help understand your needs and provide you with better service; and
+to provide news and information about the App we think will be of interest to you; 
+Our processing for the above purposes is justified by our legitimate interests in providing content of interest to you and improving our services in accordance with Article 6(1)(f) of the GDPR (also known as "the balancing-of-interest rule").
+We only process your information to the extent that is necessary to achieve the purposes for which the information has been collected.
+STORAGE OF İNFORMATİON
+Your personal data are deleted or anonymized as soon as it no longer serves one of the above mentioned purposes and in any event no later than three (3) years after your interaction with us has ceased.
+SHARİNG OF İNFORMATİON
+We disclose information about you to the following categories of recipients based on the legal bases under Sections 6(1)(b), 6(1)(c) and 6(1)(f) of the GDPR (see a description of the legal bases above):
+Social networks, see more under "Social Sharing features";
+Third parties if we are required to disclose your personal data by applicable law, rule, regulation, legal process or in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+The authorities if we believe your actions are inconsistent with the spirit or language of our policies or if the disclosure is necessary to protect the rights, property and safety of others;
+Other players in order to provide certain in-app features, such as leaderboards, if you log into the App using a third-party service;
+Furthermore, if you have given your consent in accordance with Section 6(1)(a) of the GDPR, we share your Device identifiers to advertising network companies for the purpose of them serving behavioral advertisements to you within the App. We use or may use the following advertising network companies:
+Google LLC https://policies.google.com/privacy
+Applovin Corporation https://www.applovin.com/privacy/
+The recipients' use of the disclosed information will not be covered by this Privacy Policy. If you have questions concerning the processing carried out by such third parties, you should review their privacy policy.
+In connection with our processing, we use following data processors such as server hosting providers, technical service providers for supporting internal operations, user login services and analytics service providers:
+Facebook Analytics (Facebook, Inc.) https://www.facebook.com/about/privacy/
+Firebase (Google LLC) https://firebase.google.com/support/privacy
+SOCİAL SHARİNG FEATURES
+The App offers or can offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take in the App with other media. You must be over the minimum age limit that is prescribed by the legislation in the individual jurisdictions to use any social sharing features integrated in the App. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.
+CHİLDREN
+Use of the App is limited to users aged 13 years and above, except in European Economic Area, where the App is limited to users aged 16 years and above. If you are accepting this Privacy Policy and using the App, you warrant you are 13 (or 16, depends what is applicable) or more years old.
+If you have additional questions about our privacy practices related to children under the applicable minimum age, please contact us at yildirim.atcioglu@icloud.com.
 
-The app does use third-party services that may collect information used to identify you.
+TRANSFER TO THİRD COUNTRİES
+In connection with the processing, we will in certain circumstances transfer your personal data to recipients outside the EEU.
 
-Link to the privacy policy of third-party service providers used by the app
+We only transfer personal data to entities in third countries that have provided appropriate safeguards to ensure that their level of data protection is in agreement with this Privacy Policy and applicable law.
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+Consequently, the transfers will only occur based on the following safeguards:
 
-**Log Data**
+If the entity is certified to comply with the principles for data protection under the US-EU Privacy Shield Framework ("Privacy Shield") (you can view the entities certified under Privacy Shield at https://www.privacyshield.gov/), or
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+If we have entered into standard data protection clauses adopted by the European Commission with the entity, which is deemed to offer sufficient safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals.
 
-**Cookies**
+SECURİTY
+We reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+PUSH NOTİFİCATİONS
+We send push notifications or alerts to your mobile device to provide game-related information, service updates, promotional communications and other related messages, if you have agreed to such notifications. You can deactivate these notifications by changing your notification settings on your device.
+SECURİTY SAFEGUARDS
+We takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties. Although we make good faith efforts to store the information collected on the Services in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.  Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining access to this information.  We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+DO WE ACTUALLY "SELL" PERSONAL DATA?
+We does not, and will not, provide your personal data in direct exchange for money. Therefore, in the literal sense, We does not sell your data. However, we have disclosed some categories of personal data we collect, explained under ”Sharing of information“, to the third parties for business purpose as explained under “Use of information – purpose and legal basis”.
+To the extent this practice is interpreted to constitute a “sale” under the CCPA, please contact us at yildirim.atcioglu@icloud.com to exercise your right to withdraw your consent on sharing your personal data with third parties.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+YOUR RIGHTS
+Rights of EEU residents
+We process and answer your requests without undue delay and in any event within one month of our receipt of the request unless a longer period is required due to the complexity of the request. In this case, our response time can be up to three months in total as permitted by Article 12 of the GDPR.
+Right to request access
+You have the right to request access into the data that we are processing on you, see Article 15 of the GDPR, including information about:
+the purposes of the processing;
+the categories of personal data concerned;
+the recipients or categories of recipient to whom the personal data have been or will be disclosed;
+the envisaged period for which the personal data will be stored.
+Furthermore, you have the right to obtain a copy of the personal data undergoing processing. Please note that the access may be restricted due to intellectual property or trade secrets.
+The right to object
+You have the right to object to our processing of your personal data on grounds relating to your particular situation when the data are processed based on the balancing-of- interest rule in Section 6(1)(f) of the GDPR, see Article 21 of the GDPR. In this case, we will cease the processing unless there are compelling legitimate grounds for the processing which override your interests, rights and freedoms or if the processing is necessary for the establishment, exercise or defense of legal claims.
+You have the right to object to our processing of your personal data for direct marketing purposes at any time. We will cease the processing of your personal data for this purpose after the objection.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Right to rectification
+You have the right to have inaccurate personal data rectified, see Article 16 of the GDPR.
+The right to restriction
+You have the right to obtain restriction of processing in certain circumstances, see Article 18 of the GDPR. If you have the right to restriction, we will only process your data with your consent or for the establishment, exercise or defense of a legal claim or to protect a person or important grounds of public interest.
+The right to withdraw consent
+If we have asked for your consent to our processing of your data, you have the right to withdraw your consent at any time, see Article 7 of the GDPR.
+If you withdraw your consent, we will cease processing of the data for which you have withdrawn consent, unless we have a legal obligation to keep some or parts of your data.
 
-**Service Providers**
+The withdrawal of your consent does not affect the lawfulness of processing based on your consent before its withdrawal.
 
-I may employ third-party companies and individuals due to the following reasons:
+The right to data portability
+You have the right to receive the personal data you have provided us with which we process in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller if the processing is based on consent or contract performance, see Article 20 of the GDPR.
+Rights of California residents
+We endeavor to respond to a verifiable consumer request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. We will deliver our written response by mail.
+Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal data that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Right to opt out
+Under CCPA each California resident can request any business stops selling personal information to third parties.
+Right to be informed
+You have a right to be informed about what categories of personal data we are collecting, including the purpose of the collection. You can freely find this information in our Privacy Policy. We update our Privacy Policy at least once every 12 months.
+Right to disclosure
+You can request us to disclose what personal data we have collected on you in the past 12 months.
+We can assure you that our Privacy Policy is an relevant document where you can find information about what personal data we have collected about you over the past 12 months and intend to collect, sources of your personal data and how we use your personal data.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+You also have a right to get a free copy of your personal information disclosed in a readily usable and readable format (right of access). You can make this request for free, twice per year.
 
-**Security**
+When providing information under the right of access, we will provide you with the following information:
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+The categories of personal data we are collecting about you,
 
-**Links to Other Sites**
+The categories of sources of the personal data,
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The purpose for collecting your personal data,
 
-**Children’s Privacy**
+The categories of any third parties with whom we share your personal data,
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+The specific pieces of personal data collected about you.
 
-**Changes to This Privacy Policy**
+Right to deletion
+You can request us to delete the personal data we have collected on you in the past 12 months.
+We fully recognize you right to deletion, however, we would like to note that in some cases we are obliged to keep your personal data for certain period of time. For instance, if we need to provide services to you, detect or resolve issues security or functionality-related issues, comply with the law, conduct research in the public interest, safeguard the right to free speech or carry out any actions for internal purposes that you might reasonably expect. If we do not have obligations to perform any of the above actions, we can delete your personal information at your request.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Right to equal services and prices
+California residents are protected against any discrimination that a business might subject them to based on the exercising of their CCPA rights.
+We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
 
-This policy is effective as of 2022-09-12
+Deny you the App,
 
-**Contact Us**
+Charge you different prices or rates for the App, including through granting discounts or other benefits, or imposing penalties,
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at yildirim.atcioglu@icloud.com.
+Provide you a different level or quality of the App,
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Suggest that you may receive a different price or rate for services or a different level or quality of the App.
+
+How to exercise my rights
+If you wish to use any of the rights described below, you may contact us at any time by emailing us at yildirim.atcioglu@icloud.com
+CONTACT
+Our games has the following contact information:
+E-mail: yildirim.atcioglu@icloud.com
+You may also contact your local data protection authority for unresolved complaints.
+
